@@ -30,7 +30,7 @@ function handleChange(value) {
 ReactDOM.render(
   <Select
     mode="tags"
-    style={{ width: '100%' }}
+    style={{ width: '300%' }}
     placeholder="Tags Mode"
     onChange={handleChange}
   >
